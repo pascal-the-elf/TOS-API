@@ -21,10 +21,15 @@
 請不要濫用 API，希望能讓大家都可以正常使用
 * 濫用者會每次都保底喔，還會關鍵時刻斷 Combo 沒天降喔！
 
-## 錯誤回報及新功能構想
-遇到錯誤可以直接提 Issue 到這個 Repo，最好包含請求的 URL 方便除錯
+### Javascript API
+提供 JS 開發環境一個更簡潔的使用方式，並內建快取機制。
 
-有新想法的也歡迎提 PR！
+[詳情請至此頁面查看](https://github.com/pascal-the-elf/TOS-API/tree/main/API/js)
+
+## 錯誤回報及新功能構想
+遇到錯誤可以直接提 Issue 到這個 Repo，最好包含請求的 URL 方便除錯（如果使用 JS API 請提供請求參數及版本）
+
+有新想法的也歡迎提 PR 或 Issue！
 
 ## 來源
 部分資料是從 [神魔之塔官方圖鑑](https://gallery.tosgame.com/) 抓來的，也有部分資料是從 [神魔之塔 繁中維基](https://tos.fandom.com/zh/wiki/) 抓來的
